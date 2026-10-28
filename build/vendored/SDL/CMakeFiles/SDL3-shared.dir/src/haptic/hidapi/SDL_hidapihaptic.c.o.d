@@ -1,0 +1,33 @@
+vendored/SDL/CMakeFiles/SDL3-shared.dir/src/haptic/hidapi/SDL_hidapihaptic.c.o: \
+ /home/ola-iya/tuto_sdl/vendored/SDL/src/haptic/hidapi/SDL_hidapihaptic.c \
+ /usr/include/stdc-predef.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/src/SDL_internal.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/src/haptic/hidapi/SDL_hidapihaptic.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/src/haptic/hidapi/SDL_hidapihaptic_c.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/include/SDL3/SDL_haptic.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/include/SDL3/SDL_joystick.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/src/haptic/hidapi/../SDL_syshaptic.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/src/haptic/hidapi/../../joystick/SDL_joystick_c.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/src/haptic/hidapi/../../joystick/SDL_sysjoystick.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/src/haptic/hidapi/../../joystick/SDL_joystick_c.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/src/haptic/hidapi/../../joystick/../events/SDL_events_c.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/src/haptic/hidapi/../../joystick/../events/../video/SDL_sysvideo.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/include/SDL3/SDL_vulkan.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/include/SDL3/SDL_stdinc.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/include/SDL3/SDL_error.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/include/SDL3/SDL_video.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/include/SDL3/SDL_begin_code.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/include/SDL3/SDL_close_code.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/src/haptic/hidapi/../../joystick/../events/../video/SDL_surface_c.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/src/haptic/hidapi/../../joystick/../events/../video/SDL_blit.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/src/haptic/hidapi/../../joystick/../events/SDL_clipboardevents_c.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/src/haptic/hidapi/../../joystick/../events/SDL_displayevents_c.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/src/haptic/hidapi/../../joystick/../events/SDL_dropevents_c.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/src/haptic/hidapi/../../joystick/../events/SDL_keyboard_c.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/src/haptic/hidapi/../../joystick/../events/SDL_keymap_c.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/src/haptic/hidapi/../../joystick/../events/SDL_mouse_c.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/src/haptic/hidapi/../../joystick/../events/SDL_touch_c.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/src/haptic/hidapi/../../joystick/../events/SDL_pen_c.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/src/haptic/hidapi/../../joystick/../events/../SDL_internal.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/src/haptic/hidapi/../../joystick/../events/SDL_windowevents_c.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/include/SDL3/SDL_mutex.h

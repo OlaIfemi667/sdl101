@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/ola-iya/tuto_sdl/build/cmake_install.cmake",
+		"/home/ola-iya/tuto_sdl/build/vendored/SDL/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

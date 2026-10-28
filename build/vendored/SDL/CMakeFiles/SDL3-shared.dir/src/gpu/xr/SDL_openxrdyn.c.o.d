@@ -1,0 +1,19 @@
+vendored/SDL/CMakeFiles/SDL3-shared.dir/src/gpu/xr/SDL_openxrdyn.c.o: \
+ /home/ola-iya/tuto_sdl/vendored/SDL/src/gpu/xr/SDL_openxrdyn.c \
+ /usr/include/stdc-predef.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/src/SDL_internal.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/src/gpu/xr/SDL_openxrdyn.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/src/gpu/xr/SDL_openxr_internal.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/src/gpu/xr/../../video/khronos/openxr/openxr.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/src/gpu/xr/../../video/khronos/openxr/openxr_platform_defines.h \
+ /usr/lib/gcc/x86_64-linux-gnu/15/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/15/include/stdint.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/src/gpu/xr/../../video/khronos/openxr/openxr_platform.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/src/gpu/xr/../../video/khronos/openxr/openxr.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/src/gpu/xr/SDL_openxrsym.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/include/SDL3/SDL_dlopennote.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/include/SDL3/SDL_openxr.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/include/SDL3/SDL_stdinc.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/include/SDL3/SDL_gpu.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/include/SDL3/SDL_begin_code.h \
+ /home/ola-iya/tuto_sdl/vendored/SDL/include/SDL3/SDL_close_code.h
